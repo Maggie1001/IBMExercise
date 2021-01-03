@@ -1,1 +1,0 @@
-[error] sbt.librarymanagement.ResolveException: unresolved dependency: org.scala-lang#scala-library;2.12: not found
