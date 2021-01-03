@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: com.amazonaws:aws-java-sdk-textract:1.11.596:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.amazonaws/aws-java-sdk-textract/jars/aws-java-sdk-textract-1.11.596.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.amazonaws/aws-java-sdk-textract/srcs/aws-java-sdk-textract-1.11.596-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
